@@ -1,0 +1,10 @@
+.maincard{ 
+display: flex;
+width: 1520px;
+height: 500px;
+padding: 241px 0px;
+justify-content: center;
+align-items: center;
+border-radius: 20px;
+background: rgba(238, 238, 238, 0.93);
+}
